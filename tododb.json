@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1000,
+      "name": "Mukul",
+      "email": "jmukul777@gmail.com"
+      "password":"Mukul@123"
+    }
+   ],
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Online Project Making",
+      "userid": 1000,
+    }
+   ]
+}
